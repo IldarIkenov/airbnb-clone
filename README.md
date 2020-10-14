@@ -1,3 +1,19 @@
+```
+npm create-react-app <name>
+cd <name>
+```
+
+[material-ui](https://material-ui.com) 
+```
+npm install @material-ui/core
+npm install @material-ui/icons
+```
+
+```
+npm i react-date-range
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
